@@ -2,7 +2,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Restaurant Theme By Themefisher"
-theme = "restaurant-hugo"
+theme = "restaurant"
 summaryLength = "10"
 paginate = 4
 
